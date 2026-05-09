@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey 👋, I'm Omang Rawat</h1>
 <h3 align="center">Software Engineer | Builder ⚡</h3>
 
