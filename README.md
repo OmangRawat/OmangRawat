@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a Software Engineer based in Bengaluru, currently building production systems at **Tekion**.
+I'm a Software Engineer based in Bengaluru, building scalable production systems at **Tekion**.
 
 I enjoy solving engineering problems where **performance, scalability, and user experience** actually matter.
 
