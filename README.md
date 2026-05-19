@@ -43,7 +43,7 @@ OpenSource = ["Typst", "Monaco Editor", "Ace Editor", "webssh2"]
 ### ALGOMINATION
 Interactive algorithm visualizer built with Django + anime.js to make data structures and algorithms easier to understand.
 
-🔗 https://github.com/OmangRawat
+🔗 [https://github.com/OmangRawat/Algomination](https://github.com/OmangRawat/Algomination)
 
 ---
 
