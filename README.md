@@ -73,7 +73,7 @@ Full-stack MERN application for digitizing hostel operations with authentication
 
 ## Fun Fact
 
-I genuinely enjoy optimizing systems until they become ridiculously faster 🚀
+I genuinely enjoy building and optimizing systems until they become ridiculously awesome 🚀
 
 ---
 
