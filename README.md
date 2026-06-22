@@ -43,7 +43,14 @@ OpenSource = ["Typst", "Monaco Editor", "Ace Editor", "webssh2"]
 ### ALGOMINATION
 Interactive algorithm visualizer built with Django + anime.js to make data structures and algorithms easier to understand.
 
-🔗 [ALGOMINATION](https://algomination.vercel.app/)
+🔗 [ALGOMINATION](https://algomination.com/)
+
+---
+
+### PlotRecap
+PlotRecap gives you a refresher of any series — story, characters, and key moments — stopping right before your next episode.
+
+🔗 [PlotRecap](https://plot-recap.vercel.app/)
 
 ---
 
